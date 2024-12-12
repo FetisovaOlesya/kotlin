@@ -6,5 +6,5 @@ fun main(args: Array<String>) {
     val isStudent: Boolean = true
     val salary: Double = 160000.0
 
-    println("Age: " + age + " | Name: " + name + " | Is Student: " + isStudent + " | Salary: " + salary)
+    println("Age: $age | Name: $name | Is Student: $isStudent | Salary: $salary")
 }
