@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Домашнее задание по теме &quot;Конструкторы класса&quot;">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fun/opp/constructor/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/constructor/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/incapsulate/BankCard.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/incapsulate/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,28 +38,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Java/Idea/kotlin/src/main/kotlin/fun/opp/constructor"
+    "last_opened_file_path": "C:/Java/Idea/kotlin/src/main/kotlin/fun/opp/incapsulate"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\incapsulate" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\constructor" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\access\modifiers" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\classes" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\operatorreturn" />
-      <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\vararg" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (5)">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fun.opp.access.modifiers.MainKt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.opp.vararg.MainKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.opp.incapsulate.MainKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt (5)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt (4)" />
         <item itemvalue="Kotlin.MainKt (3)" />
-        <item itemvalue="Kotlin.MainKt (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735934869145</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Домашнее задание по теме &quot;Конструкторы класса&quot;">
+      <created>1735935058423</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735935058423</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
