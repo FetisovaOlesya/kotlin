@@ -1,7 +1,5 @@
 package `fun`.opp.access.modifiers
 
-import kotlin.math.roundToInt
-
 fun main(args: Array<String>) {
     //Задание 1
     val regOne = Registration()

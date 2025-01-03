@@ -1,7 +1,5 @@
 package `fun`.opp.access.modifiers
 
-import java.util.*
-
 class Registration() {
     private var email = ""
 
@@ -11,7 +9,7 @@ class Registration() {
         this.email = email
     }
 
-    public fun getEmail(): String = email.uppercase()
+    fun getEmail(): String = email.uppercase()
 
     fun setPassword(password: String) {
         if (password.length < 6) {
@@ -31,6 +29,4 @@ class Registration() {
     }
 
     private fun getPassword(): String = password
-
-
 }

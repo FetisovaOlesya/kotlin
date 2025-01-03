@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Все сделанные домашки">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/access/modifiers/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/access/modifiers/Registration.kt" afterDir="false" />
+    <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Домашнее задание по теме &quot;Модификаторы доступа&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fun/opp/access/modifiers/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/access/modifiers/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fun/opp/access/modifiers/Registration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/access/modifiers/Registration.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,13 +126,28 @@
       <option name="project" value="LOCAL" />
       <updated>1735905720742</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Домашнее задание по теме &quot;Модификаторы доступа&quot;">
+      <created>1735908318113</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735908318113</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Домашнее задание по теме &quot;Модификаторы доступа&quot;">
+      <created>1735908358727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735908358727</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Домашнее задание по теме &quot;Переменные и типы данных&quot;" />
     <MESSAGE value="Все сделанные домашки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Все сделанные домашки" />
+    <MESSAGE value="Домашнее задание по теме &quot;Модификаторы доступа&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Модификаторы доступа&quot;" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
