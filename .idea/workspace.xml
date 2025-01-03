@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Домашнее задание по теме &quot;Модификаторы доступа&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/constructor/Box.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/constructor/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/constructor/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Домашнее задание по теме &quot;Конструкторы класса&quot;">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fun/opp/constructor/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/constructor/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,14 +145,22 @@
       <option name="project" value="LOCAL" />
       <updated>1735908431068</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Домашнее задание по теме &quot;Конструкторы класса&quot;">
+      <created>1735934869145</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735934869145</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Домашнее задание по теме &quot;Переменные и типы данных&quot;" />
     <MESSAGE value="Все сделанные домашки" />
     <MESSAGE value="Домашнее задание по теме &quot;Модификаторы доступа&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Модификаторы доступа&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Конструкторы класса&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Конструкторы класса&quot;" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

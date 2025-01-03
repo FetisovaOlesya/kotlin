@@ -1,7 +1,5 @@
 package `fun`.opp.constructor
 
-import kotlin.math.roundToInt
-
 fun main(args: Array<String>) {
     val box = Box(15, 5, 10)
     println("Объем коробки = " + box.calculateVolume() + " см \n")
