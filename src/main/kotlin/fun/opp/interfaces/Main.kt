@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
     println("-------------------------")
 
     val numbers = intArrayOf(3, 5, 2, 5, 1, 6, 6)
-    val res = secondMaximum(numbers)
+    val res = secondMax(numbers)
 
     if (res != null) {
         println("Второе максимальное число: $res")
@@ -34,7 +34,7 @@ fun gcd(a: Int, b: Int): Int {
     }
 }
 
-fun secondMaximum(numbers: IntArray): Int? {
+fun secondMax(numbers: IntArray): Int? {
     if (numbers.size < 2) {
         return null
     }
