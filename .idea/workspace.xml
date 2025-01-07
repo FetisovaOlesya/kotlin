@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Домашнее задание по теме &quot;Геттеры и сеттеры. Инкапсуляция&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/inheritance/Animal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/inheritance/Cat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/inheritance/Dog.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/inheritance/IPhone.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/inheritance/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/inheritance/Nokia.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/inheritance/Smartphone.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/inheritance/Sony.kt" afterDir="false" />
+    <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Домашнее задание по теме &quot;Абстрактные классы&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/interfaces/Description.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/interfaces/EmergencyResponseServices.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/interfaces/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/interfaces/Medicine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fun/opp/interfaces/Police.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -44,29 +42,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Java/Idea/kotlin/src/main/kotlin/fun/opp/inheritance"
+    "last_opened_file_path": "C:/Java/Idea/kotlin/src/main/kotlin/fun/opp/interfaces"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\interfaces" />
+      <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\abstractclasses" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\inheritance" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\incapsulate" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\constructor" />
-      <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\access\modifiers" />
-      <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\classes" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="fun.opp.abstractclasses" />
       <recent name="fun.opp.inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (2)">
-    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.opp.access.modifiers.MainKt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.MainKt (4)">
     <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fun.opp.inheritance.MainKt" />
       <module name="kotlin" />
@@ -74,8 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.opp.abstractclasses.MainKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.opp.classes.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="fun.opp.interfaces.MainKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (4)" />
+        <item itemvalue="Kotlin.MainKt (3)" />
         <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt (5)" />
-        <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Kotlin.MainKt (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735936245891</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Домашнее задание по теме &quot;Абстрактные классы&quot;">
+      <created>1736283980498</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736283980498</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,7 +192,8 @@
     <MESSAGE value="Домашнее задание по теме &quot;Модификаторы доступа&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Конструкторы класса&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Геттеры и сеттеры. Инкапсуляция&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Геттеры и сеттеры. Инкапсуляция&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Абстрактные классы&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Абстрактные классы&quot;" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
