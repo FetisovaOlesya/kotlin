@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Домашнее задание по теме &quot;Переопределение функций и свойств&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/enumerations/nested/classes/interfaces/Human.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/enumerations/nested/classes/interfaces/Main.kt" afterDir="false" />
+    <list default="true" id="4e4cc331-e559-4e41-9d72-429573f0b633" name="Changes" comment="Домашнее задание по теме &quot;Вложенные классы и интерфейсы&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/enumerations/data/classes/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/enumerations/data/classes/Ticket.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +40,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Java/Idea/kotlin/src/main/kotlin/classes/enumerations/nested/classes/interfaces"
+    "last_opened_file_path": "C:/Java/Idea/kotlin/src/main/kotlin/classes/enumerations/data/classes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\Idea\kotlin\src\main\kotlin\classes\enumerations\data\classes" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\classes\enumerations\nested\classes\interfaces" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\redefinition" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\interfaces" />
       <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\abstractclasses" />
-      <recent name="C:\Java\Idea\kotlin\src\main\kotlin\fun\opp\inheritance" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="fun.opp.redefinition" />
@@ -57,16 +57,9 @@
       <recent name="fun.opp.inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (5)">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fun.opp.redefinition.MainKt" />
-      <module name="kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.opp.inheritance.MainKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.enumerations.data.classes.MainKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt (5)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt (4)" />
         <item itemvalue="Kotlin.MainKt (3)" />
-        <item itemvalue="Kotlin.MainKt (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736370836528</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Домашнее задание по теме &quot;Вложенные классы и интерфейсы&quot;">
+      <created>1736593973343</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736593973343</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +233,8 @@
     <MESSAGE value="Домашнее задание по теме &quot;Абстрактные классы&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Интерфейсы&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Переопределение функций и свойств&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Переопределение функций и свойств&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Вложенные классы и интерфейсы&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Вложенные классы и интерфейсы&quot;" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
