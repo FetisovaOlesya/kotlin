@@ -1,7 +1,7 @@
 package classes.enumerations.delegation
 
 fun main(args: Array<String>) {
-    // Пример использования функции перевода из десятичной в двоичную
+
     println("Введите десятичное число:")
     val decimalInput = readLine()?.toIntOrNull()
     if (decimalInput != null) {
@@ -11,7 +11,6 @@ fun main(args: Array<String>) {
         println("Вы ввели некорректное значение")
     }
 
-    // Пример использования функции перевода из двоичной в десятичную
     println("Введите двоичное число:")
     val binaryInput = readLine()
     if (binaryInput != null && binaryInput.all { it == '0' || it == '1' }) {
